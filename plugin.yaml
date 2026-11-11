@@ -1,0 +1,17 @@
+name: hermesfish
+version: 1.0.0
+description: "HermesFish (Elephant-Goldfish Model for Hermes) — Protocolo multi-agente de diseño, revisión arquitectónica y control de drift con subagentes independientes."
+author: Carlosdev-cod
+kind: tool
+provides_tools:
+  - egm_review
+  - egm_drift_report
+  - egm_brainstorm
+provides_skills:
+  - egm-review
+  - egm-brainstorm
+  - egm-draft
+  - egm-drift-report
+  - egm-resolve
+  - egm-review-loop
+  - egm-bootstrap
